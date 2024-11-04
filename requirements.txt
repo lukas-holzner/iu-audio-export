@@ -1,0 +1,10 @@
+browser-cookie3==0.19.1
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+jeepney==0.8.0
+lz4==4.3.3
+mutagen==1.47.0
+pycryptodomex==3.21.0
+requests==2.32.3
+urllib3==2.2.3
